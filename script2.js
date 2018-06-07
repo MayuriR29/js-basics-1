@@ -31,5 +31,7 @@ let myRandomNum = () => {
     return random;
 }
 console.log(myRandomNum());
+console.log(myRandomNum());
+console.log(myRandomNum());
 
 
